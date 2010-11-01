@@ -1,0 +1,11 @@
+* {
+  font-family: sans-serif;
+}
+
+.menu li {
+  padding: 5px;
+}
+
+.menu .highlight {
+  background-color: #ccc;
+}
